@@ -54,7 +54,7 @@ This application uses SQLite with ActiveRecord.
 
 The tables given to you are stored in the .seed.csv files, and are loaded to your local sqlite database by the command ```rake db:seed```
 
-Development
+Development Frameworks Available
 ---
 
 * Template Engine: Haml or ERB
