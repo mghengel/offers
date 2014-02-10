@@ -1,4 +1,4 @@
-Developer Test
+Ibotta Developer Project
 =========
 
 Ruby on Rails
