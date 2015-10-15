@@ -4,11 +4,11 @@ id,offer_id,task_type,amount,content,url,thumbnail_url
 3987,1284,video,0.5,,http://static-77.ibotta.com/brands/kraft/crystal%20light/SweeterRev_KRCY351515_251912_NOSLATE.mp4,http://product-images.ibotta.com/offer/Fs9JO4bjT5Kakh920d4WEw-normal.png
 3776,1287,poll,0.5,Did this offer drive you to purchase Crystal Light?,,
 3777,1287,social,0.5,"{ ""message"": """", ""description"": ""Need cool drinks for summer bbq's, sports, and hosting events? Buy Crystal Light and earn money with Ibotta. Discover your favorite flavor - facebook.com/crystallight"", ""picture"": ""http://product-images.ibotta.com/offer/D7lbegjPt6uQPT_TKnVkdA-normal.png"", ""link"": ""http://facebook.com/crystallight"", ""name"": ""Crystal Light"", ""caption"": ""facebook.com/crystallight"" }",http://product-images.ibotta.com/offer/D7lbegjPt6uQPT_TKnVkdA-normal.png,http://product-images.ibotta.com/offer/D7lbegjPt6uQPT_TKnVkdA-normal.png
-3988,1287,testify,0.5,"What do you love 
+3988,1287,testify,0.5,"What do you love
 about Crystal Light?",,
-3992,1350,do_gooder,0.5,"Upload a photo on Facebook to join the Great American Lemonade Stand-tacular and Country Time will donate $5 to Alex's Lemonade Stand Foundation to fight childhood cancer. 
+3992,1350,do_gooder,0.5,"Upload a photo on Facebook to join the Great American Lemonade Stand-tacular and Country Time will donate $5 to Alex's Lemonade Stand Foundation to fight childhood cancer.
 To learn more visit: http://bit.ly/CTLemonadeStand",https://s3.amazonaws.com/ibotta-static-assets/brands/kraft/country+time/ALSF-Horizontal-4C.png,
-3993,1350,recipe,0.5,"Frozen Lemonade Pie Ingredients: 
+3993,1350,recipe,0.5,"Frozen Lemonade Pie Ingredients:
 
 • 1/4 cup  water
 • 1/3 cup  COUNTRY TIME Lemonade Flavor Drink Mix
@@ -32,7 +32,7 @@ Hint: Bhakti Chai is located in the grab-and-go drink section or in the refriger
 4709,1579,poll,0.25,When was the last time you purchased a Good Food Made Simple product at Target?,,
 4710,1579,social,0.25,"{ ""message"": """", ""description"": ""Want a healthy breakfast that you can eat on the go? Pick up Good Food Made Simple Breakfast Burritos at Target and earn with Ibotta! facebook.com/GoodFoodMadeSimple"", ""picture"": ""http://product-images.ibotta.com/offer/DaXjybA--LnzSFoq6_eRkg-normal.png"", ""link"": ""http://facebook.com/GoodFoodMadeSimple"", ""name"": ""Good Food Made Simple"", ""caption"": ""facebook.com/GoodFoodMadeSimple"" }",http://product-images.ibotta.com/offer/DaXjybA--LnzSFoq6_eRkg-normal.png,http://product-images.ibotta.com/offer/DaXjybA--LnzSFoq6_eRkg-normal.png
 4713,1580,quiz,0.25,Good Food Made Simple Oatmeal:,,
-4714,1580,how_to,0.25,"Who says you can only eat oatmeal for breakfast? 
+4714,1580,how_to,0.25,"Who says you can only eat oatmeal for breakfast?
 Try adding spinach, broccoli, or bits of sausage to Good Food Made Simple's Steel Cut Oats for a nutrient-packed dinner option! ",,
 4725,1587,social,0.25,"{ ""message"": """", ""description"": ""It’s all in how you look at things – and from what Fruttare® can see, #itsallgood                                                      Head to the Ice Cream aisle, then check out the Fruttare® Facebook page: facebook.com/FruttareUS"", ""picture"": ""http://product-images.ibotta.com/offer/4LJQ-ucFW0PTe_f8gMaLEg-normal.png"", ""link"": ""http://facebook.com/FruttareUS"", ""name"": ""Fruttare® Frozen Fruit Bars"", ""caption"": ""facebook.com/FruttareUS"" }",http://product-images.ibotta.com/offer/4LJQ-ucFW0PTe_f8gMaLEg-normal.png,http://product-images.ibotta.com/offer/4LJQ-ucFW0PTe_f8gMaLEg-normal.png
 4726,1587,video,0.25,How did you first hear about Fruttare™ Fruit Bars?,http://static-77.ibotta.com/brands/fruttare/Fruttare+FINAL+TVC+15+sec+PS.mp4,http://product-images.ibotta.com/offer/4LJQ-ucFW0PTe_f8gMaLEg-normal.png
@@ -85,16 +85,16 @@ Source: http://www.delallo.com/recipes",http://product-images.ibotta.com/offer/T
 5439,1820,social,0.25,"{ ""message"": """", ""description"": ""Try Healthy Choice® Baked Entrees and get fresh-baked meals with an oven-baked taste! Microwaveable meals forcing you to sacrifice on taste? Not anymore!"", ""picture"": ""http://product-images.ibotta.com/offer/cj_yZo-7-5y6SxprUceQQA-normal.png"", ""link"": ""http://facebook.com/healthychoice"", ""name"": ""Healthy Choice® Baked Entrees"", ""caption"": ""facebook.com/healthychoice"" }",http://product-images.ibotta.com/offer/cj_yZo-7-5y6SxprUceQQA-normal.png,http://product-images.ibotta.com/offer/cj_yZo-7-5y6SxprUceQQA-normal.png
 5436,1821,twitter,0.25,Fresh taste unlocked by steam. Earn money for buying @healthy_choice using @IbottaApp!,http://product-images.ibotta.com/offer/9Cy70KDQ85x6TspJ0pVtcw-normal.png,http://product-images.ibotta.com/offer/Qym61zU_VCvEA00gbVJbaw-normal.png
 5438,1821,social,0.25,"{ ""message"": """", ""description"": ""Healthy Choice® 100% Natural and Steaming Entrees are now Café Steamers! Fresh taste unlocked by steam.                            Share your Healthy Choice® love on Facebook:                        FB.com/healthychoice"", ""picture"": ""http://product-images.ibotta.com/offer/9Cy70KDQ85x6TspJ0pVtcw-normal.png"", ""link"": ""http://facebook.com/healthychoice"", ""name"": ""100% Natural Café Steamers"", ""caption"": ""facebook.com/healthychoice"" }",http://product-images.ibotta.com/offer/9Cy70KDQ85x6TspJ0pVtcw-normal.png,http://product-images.ibotta.com/offer/9Cy70KDQ85x6TspJ0pVtcw-normal.png
-5440,1821,fact,0.25,"Your favorite Healthy Choice 100% Natural Steaming Entrees are becoming Café Steamers! 
+5440,1821,fact,0.25,"Your favorite Healthy Choice 100% Natural Steaming Entrees are becoming Café Steamers!
 
 Five delicious, vegetarian meals feature our special tray-in-tray cooking method that separates the ingredients while cooking – so the vegetables are crisper and the pasta cooks al dente.",,
 5650,1895,fact,0.25,Did you know that all Little Duck Organics products are certified organic and non-GMO project verified?,,
 5651,1895,social,0.5,"{ ""message"": """", ""description"": ""Save $1.00 on Tiny Fruits. Right. Now. Don't miss out on this awesome chance to get these delicious, organic fruit snacks for less! Like Little Duck Organics on Facebook!           FB.com/LittleDuckOrganics"", ""picture"": ""http://product-images.ibotta.com/offer/-JAwDs62iJbDvYDb5ZITiw-normal.png"", ""link"": ""http://www.facebook.com/LittleDuckOrganics"", ""name"": ""Little Duck Organics"", ""caption"": ""http://www.facebook.com/LittleDuckOrganics"" }",http://product-images.ibotta.com/offer/-JAwDs62iJbDvYDb5ZITiw-normal.png,http://product-images.ibotta.com/offer/-JAwDs62iJbDvYDb5ZITiw-normal.png
 5691,1895,testify,0.25,Which store do you purchase your Little Duck snacks from most frequently?,,
-5722,1920,do_gooder,0.25,"By effectively combining 
-Organic ingredients with 
-uncompromising taste and regular giving to worthy causes, 
-Peace Cereal® truly delivers 
+5722,1920,do_gooder,0.25,"By effectively combining
+Organic ingredients with
+uncompromising taste and regular giving to worthy causes,
+Peace Cereal® truly delivers
 Peace of Mind in Every Bite!
 
 To learn more, visit:
@@ -102,7 +102,7 @@ peacecereal.com/giving-back",https://s3.amazonaws.com/ibotta-static-assets/brand
 5723,1920,poll,0.25,When was the last time you purchased Peace Cereal®?,,
 5727,1920,social,0.5,"{ ""message"": """", ""description"": ""Peace Cereal® has introduced 4 delicious, new flake and cluster cereals that are Non-GMO Verified and certified Organic. Peace of Mind in Every Bite! FB.com/PeaceCereal"", ""picture"": ""http://product-images.ibotta.com/offer/oq3cCAbBocK52uwaWPiv8g-normal.png"", ""link"": ""http://facebook.com/peacecereal"", ""name"": ""Peace Cereal®"", ""caption"": ""facebook.com/peacecereal"" }",http://product-images.ibotta.com/offer/oq3cCAbBocK52uwaWPiv8g-normal.png,http://product-images.ibotta.com/offer/oq3cCAbBocK52uwaWPiv8g-normal.png
 5736,1925,quiz,0.25,Each serving of Willamette Valley Granola Chips provides:,,
-5737,1925,fact,0.25,"Foods with whole grains, fiber and protein, but low in fat and sugar make excellent snacks.  
+5737,1925,fact,0.25,"Foods with whole grains, fiber and protein, but low in fat and sugar make excellent snacks.
 
 Willamette Valley Granola Chips deliver all those criteria with a delicious, crunchy snack for any time of the day!  ",,
 5738,1925,social,0.5,"{ ""message"": ""Healthy, delicious, on-the-go granola snacks from the heart of the Willamette Valley in Oregon."", ""description"": ""Granola's Never Been So Good! Like Willamette Valley at  Facebook/WillametteValleyGranola"", ""picture"": ""http://product-images.ibotta.com/offer/pgu8Do4h9Ix5ZupyU-ss5w-normal.png"", ""link"": ""http://facebook.com/facebook.com/willamettevalleygranola"", ""name"": ""Willamette Valley"", ""caption"": ""facebook.com/facebook.com/willamettevalleygranola"" }",http://product-images.ibotta.com/offer/pgu8Do4h9Ix5ZupyU-ss5w-normal.png,http://product-images.ibotta.com/offer/pgu8Do4h9Ix5ZupyU-ss5w-normal.png
@@ -110,7 +110,7 @@ Willamette Valley Granola Chips deliver all those criteria with a delicious, cru
 5932,1932,poll,0.5,Which ONE of these sources of information most influenced your purchase of PediaSure®?,,
 5933,1932,social,1,"{ ""message"": """", ""description"": ""Each delicious shake provides 7g protein and 25 vitamins and minerals! In a variety of kid-approved flavors, PediaSure® is perfect for kids on the go...and on the grow!"", ""picture"": ""http://product-images.ibotta.com/offer/jS-nS7rnXrvYfFwU9KjWcA-normal.png"", ""link"": ""http://pediasure.com"", ""name"": ""PediaSure®"", ""caption"": ""www.pediasure.com"" }",http://product-images.ibotta.com/offer/jS-nS7rnXrvYfFwU9KjWcA-normal.png,http://product-images.ibotta.com/offer/jS-nS7rnXrvYfFwU9KjWcA-normal.png
 5812,1955,quiz,0.25,Each serving of Willamette Valley Granola Chips provides:,,
-5813,1955,fact,0.25,"Foods with whole grains, fiber and protein, but low in fat and sugar make excellent snacks.  
+5813,1955,fact,0.25,"Foods with whole grains, fiber and protein, but low in fat and sugar make excellent snacks.
 
 Willamette Valley Granola Chips deliver all those criteria with a delicious, crunchy snack for any time of the day!  ",,
 5814,1955,social,0.5,"{ ""message"": ""Healthy, delicious, on-the-go granola snacks from the heart of the Willamette Valley in Oregon."", ""description"": ""Granola's Never Been So Good! Like Willamette Valley at  Facebook/WillametteValleyGranola"", ""picture"": ""http://product-images.ibotta.com/offer/pgu8Do4h9Ix5ZupyU-ss5w-normal.png"", ""link"": ""http://facebook.com/facebook.com/willamettevalleygranola"", ""name"": ""Willamette Valley"", ""caption"": ""facebook.com/facebook.com/willamettevalleygranola"" }",http://product-images.ibotta.com/offer/pgu8Do4h9Ix5ZupyU-ss5w-normal.png,http://product-images.ibotta.com/offer/pgu8Do4h9Ix5ZupyU-ss5w-normal.png
@@ -141,12 +141,12 @@ The main active ingredient,
 L-theanine, is a unique amino acid found in green tea, and has been clinically shown to help reduce stress and elevate mood without drowsiness. ",,
 6255,2094,fact,0.25,"Did you know?
 
-RUNA® Tea's Guayusa contains the same amount of the world’s most prized stimulant, caffeine, 
+RUNA® Tea's Guayusa contains the same amount of the world’s most prized stimulant, caffeine,
 as one cup of coffee!",,
 6256,2094,video,0.5,,http://static-77.ibotta.com/brands/runa/Runa%20-%20Intro%20Video.mp4,http://product-images.ibotta.com/offer/5nlC1GhIPnwgJAHBfqH7BQ-normal.png
 6257,2094,social,0.25,"{ ""message"": """", ""description"": ""RUNA® Tea supports sustainable livelihoods in the Ecuadorian Amazon by bringing Guayusa tea to the US Market. Learn more, and support their efforts, at: FB.com/drinkruna"", ""picture"": ""http://product-images.ibotta.com/offer/5nlC1GhIPnwgJAHBfqH7BQ-normal.png"", ""link"": ""http://facebook.com/drinkruna"", ""name"": ""RUNA® Tea"", ""caption"": ""drinkruna"" }",http://product-images.ibotta.com/offer/5nlC1GhIPnwgJAHBfqH7BQ-normal.png,http://product-images.ibotta.com/offer/5nlC1GhIPnwgJAHBfqH7BQ-normal.png
 6498,2170,do_gooder,0.25,“Bhakti” is Sanskrit for “devotion through social action” and charitable contributions are woven into the tapestry of our business. Bhakti Chai allocates a percentage of our annual revenue to organizations that empower women & children. Learn more: http://bit.ly/BhaktiSocialAction,https://s3.amazonaws.com/ibotta-static-assets/brands/bhakti+chai/Bhakti_LOGO-copy.png,https://s3.amazonaws.com/ibotta-static-assets/brands/bhakti+chai/Bhakti_LOGO-copy.png
-6665,2170,how_to,0.25,"Complete this How To: Ask a King Soopers Team Member to show you where to find Bhakti Chai in the store. 
+6665,2170,how_to,0.25,"Complete this How To: Ask a King Soopers Team Member to show you where to find Bhakti Chai in the store.
 
 Hint: Bhakti Chai is located in the grab-and-go drink section or in the refrigerated beverage aisle.",,
 6666,2170,social,0.5,"{ ""message"": """", ""description"": ""If you like spicy chai,                you must try Bhakti Chai!                  Full of #freshginger and                    #masala spices. Delicious!"", ""picture"": ""http://product-images.ibotta.com/offer/eJ3W0yT9RY5de1j_Tn3L2Q-normal.png"", ""link"": ""http://facebook.com/bhaktichaifans"", ""name"": ""Bhakti Chai"", ""caption"": ""facebook.com/bhaktichaifans"" }",http://product-images.ibotta.com/offer/eJ3W0yT9RY5de1j_Tn3L2Q-normal.png,http://product-images.ibotta.com/offer/eJ3W0yT9RY5de1j_Tn3L2Q-normal.png
@@ -154,55 +154,55 @@ Hint: Bhakti Chai is located in the grab-and-go drink section or in the refriger
 6547,2185,quiz,0.25,The basic rules of Pyrex® Glass Bakeware Product Care are:,,
 6548,2185,social,0.5,"{ ""message"": """", ""description"": ""Pyrex® is America's trusted glass brand. They’ve got you covered from food prep to storage and everything in between!"", ""picture"": ""http://product-images.ibotta.com/offer/Jg6zmt7mPHlcKXCYyvKGHw-normal.png"", ""link"": ""http://facebook.com/PyrexHome"", ""name"": ""Pyrex®"", ""caption"": ""facebook.com/PyrexHome"" }",http://product-images.ibotta.com/offer/cBaN2biq0GSbsUHM84ycGw-normal.png,http://product-images.ibotta.com/offer/cBaN2biq0GSbsUHM84ycGw-normal.png
 6602,2204,social,0.25,"{ ""message"": """", ""description"": ""I'm excited to try DRY'®s less sweet sodas, made with just four all natural ingredients, including just a little bit of pure cane sugar."", ""picture"": ""http://product-images.ibotta.com/offer/MNRXg62xRJDiF29PT3Q-iQ-normal.png"", ""link"": ""http://facebook.com/DRYSoda"", ""name"": ""DRY® Soda"", ""caption"": ""facebook.com/DRYSoda"" }",http://product-images.ibotta.com/offer/MNRXg62xRJDiF29PT3Q-iQ-normal.png,http://product-images.ibotta.com/offer/MNRXg62xRJDiF29PT3Q-iQ-normal.png
-6603,2204,fact,0.25,"Did you know that DRY® is 
-less sweet soda and has a 
-fraction of the sugar found 
-in traditional sodas? 
+6603,2204,fact,0.25,"Did you know that DRY® is
+less sweet soda and has a
+fraction of the sugar found
+in traditional sodas?
 
 Sweetened only with pure cane sugar, DRY®  has just 45 to 70 calories per 12 oz. can!",,
 6621,2212,social,0.25,"{ ""message"": """", ""description"": ""I'm excited to try DRY'®s less sweet sodas, made with just four all natural ingredients, including just a little bit of pure cane sugar."", ""picture"": ""http://product-images.ibotta.com/offer/MNRXg62xRJDiF29PT3Q-iQ-normal.png"", ""link"": ""http://facebook.com/DRYSoda"", ""name"": ""DRY® Soda"", ""caption"": ""facebook.com/DRYSoda"" }",http://product-images.ibotta.com/offer/MNRXg62xRJDiF29PT3Q-iQ-normal.png,http://product-images.ibotta.com/offer/MNRXg62xRJDiF29PT3Q-iQ-normal.png
-6622,2212,fact,0.25,"Did you know that DRY® is 
-less sweet soda and has a 
-fraction of the sugar found 
-in traditional sodas? 
+6622,2212,fact,0.25,"Did you know that DRY® is
+less sweet soda and has a
+fraction of the sugar found
+in traditional sodas?
 
 Sweetened only with pure cane sugar, DRY®  has just 45 to 70 calories per 12 oz. can!",,
 6623,2213,social,0.25,"{ ""message"": """", ""description"": ""I'm excited to try DRY'®s less sweet sodas, made with just four all natural ingredients, including just a little bit of pure cane sugar."", ""picture"": ""http://product-images.ibotta.com/offer/MNRXg62xRJDiF29PT3Q-iQ-normal.png"", ""link"": ""http://facebook.com/DRYSoda"", ""name"": ""DRY® Soda"", ""caption"": ""facebook.com/DRYSoda"" }",http://product-images.ibotta.com/offer/MNRXg62xRJDiF29PT3Q-iQ-normal.png,http://product-images.ibotta.com/offer/MNRXg62xRJDiF29PT3Q-iQ-normal.png
-6624,2213,fact,0.25,"Did you know that DRY® is 
-less sweet soda and has a 
-fraction of the sugar found 
-in traditional sodas? 
+6624,2213,fact,0.25,"Did you know that DRY® is
+less sweet soda and has a
+fraction of the sugar found
+in traditional sodas?
 
 Sweetened only with pure cane sugar, DRY®  has just 45 to 70 calories per 12 oz. can!",,
 6625,2214,social,0.25,"{ ""message"": """", ""description"": ""I'm excited to try DRY'®s less sweet sodas, made with just four all natural ingredients, including just a little bit of pure cane sugar."", ""picture"": ""http://product-images.ibotta.com/offer/MNRXg62xRJDiF29PT3Q-iQ-normal.png"", ""link"": ""http://facebook.com/DRYSoda"", ""name"": ""DRY® Soda"", ""caption"": ""facebook.com/DRYSoda"" }",http://product-images.ibotta.com/offer/MNRXg62xRJDiF29PT3Q-iQ-normal.png,http://product-images.ibotta.com/offer/MNRXg62xRJDiF29PT3Q-iQ-normal.png
-6626,2214,fact,0.25,"Did you know that DRY® is 
-less sweet soda and has a 
-fraction of the sugar found 
-in traditional sodas? 
+6626,2214,fact,0.25,"Did you know that DRY® is
+less sweet soda and has a
+fraction of the sugar found
+in traditional sodas?
 
 Sweetened only with pure cane sugar, DRY®  has just 45 to 70 calories per 12 oz. can!",,
 6627,2215,social,0.25,"{ ""message"": """", ""description"": ""I'm excited to try DRY'®s less sweet sodas, made with just four all natural ingredients, including just a little bit of pure cane sugar."", ""picture"": ""http://product-images.ibotta.com/offer/MNRXg62xRJDiF29PT3Q-iQ-normal.png"", ""link"": ""http://facebook.com/DRYSoda"", ""name"": ""DRY® Soda"", ""caption"": ""facebook.com/DRYSoda"" }",http://product-images.ibotta.com/offer/MNRXg62xRJDiF29PT3Q-iQ-normal.png,http://product-images.ibotta.com/offer/MNRXg62xRJDiF29PT3Q-iQ-normal.png
-6628,2215,fact,0.25,"Did you know that DRY® is 
-less sweet soda and has a 
-fraction of the sugar found 
-in traditional sodas? 
+6628,2215,fact,0.25,"Did you know that DRY® is
+less sweet soda and has a
+fraction of the sugar found
+in traditional sodas?
 
 Sweetened only with pure cane sugar, DRY®  has just 45 to 70 calories per 12 oz. can!",,
 6629,2216,social,0.25,"{ ""message"": """", ""description"": ""I'm excited to try DRY'®s less sweet sodas, made with just four all natural ingredients, including just a little bit of pure cane sugar."", ""picture"": ""http://product-images.ibotta.com/offer/MNRXg62xRJDiF29PT3Q-iQ-normal.png"", ""link"": ""http://facebook.com/DRYSoda"", ""name"": ""DRY® Soda"", ""caption"": ""facebook.com/DRYSoda"" }",http://product-images.ibotta.com/offer/MNRXg62xRJDiF29PT3Q-iQ-normal.png,http://product-images.ibotta.com/offer/MNRXg62xRJDiF29PT3Q-iQ-normal.png
-6630,2216,fact,0.25,"Did you know that DRY® is 
-less sweet soda and has a 
-fraction of the sugar found 
-in traditional sodas? 
+6630,2216,fact,0.25,"Did you know that DRY® is
+less sweet soda and has a
+fraction of the sugar found
+in traditional sodas?
 
 Sweetened only with pure cane sugar, DRY®  has just 45 to 70 calories per 12 oz. can!",,
 6633,2218,social,0.25,"{ ""message"": """", ""description"": ""I'm excited to try DRY'®s less sweet sodas, made with just four all natural ingredients, including just a little bit of pure cane sugar."", ""picture"": ""http://product-images.ibotta.com/offer/MNRXg62xRJDiF29PT3Q-iQ-normal.png"", ""link"": ""http://facebook.com/DRYSoda"", ""name"": ""DRY® Soda"", ""caption"": ""facebook.com/DRYSoda"" }",http://product-images.ibotta.com/offer/MNRXg62xRJDiF29PT3Q-iQ-normal.png,http://product-images.ibotta.com/offer/MNRXg62xRJDiF29PT3Q-iQ-normal.png
-6634,2218,fact,0.25,"Did you know that DRY® is 
-less sweet soda and has a 
-fraction of the sugar found 
-in traditional sodas? 
+6634,2218,fact,0.25,"Did you know that DRY® is
+less sweet soda and has a
+fraction of the sugar found
+in traditional sodas?
 
 Sweetened only with pure cane sugar, DRY®  has just 45 to 70 calories per 12 oz. can!",,
-7042,2353,fact,1.5,"Did you know when using Ibotta at Ridley's you don't have to take a picture of your receipt? 
+7042,2353,fact,1.5,"Did you know when using Ibotta at Ridley's you don't have to take a picture of your receipt?
 
 Just make sure the advantage card number on the bottom of your receipt matches what you have in Ibotta!
 
@@ -211,7 +211,7 @@ Just make sure the advantage card number on the bottom of your receipt matches w
 (Look at the bottom of your receipt to check!)",,
 7046,2353,social,2,"{ ""message"": """", ""description"": ""Now shopping at Ridley's is even more rewarding - I earned $5 for shopping using #Ibotta! Learn more at fb.com/IbottaApp"", ""picture"": ""http://product-images.ibotta.com/offer/Fy1_scs3JZ6Ip_DbjyQh9A-normal.png"", ""link"": ""http://facebook.com/ridleysmarket"", ""name"": ""Ridley's Family Market"", ""caption"": ""facebook.com/ridleysmarket"" }
 ",,
-7047,2354,fact,0.5,"The reason that Ridley's Famous Fried chicken tastes fresher and better, is because it is! 
+7047,2354,fact,0.5,"The reason that Ridley's Famous Fried chicken tastes fresher and better, is because it is!
 
 We use only fresh, never-frozen chicken and hand bread it each day so your fried chicken is golden and crispy!
 
@@ -223,9 +223,9 @@ We use only fresh, never-frozen chicken and hand bread it each day so your fried
 7099,2368,social,1,"{ ""message"": """", ""description"": ""A special meal calls for a special table. Since holiday meals are about as special as it gets, it’s time to wow your crowd with a Corelle® dinnerware set! Check out all the dinnerware collections: http://bit.ly/CorelleDinnerware"", ""picture"": ""http://product-images.ibotta.com/offer/3W5QuGzFWZq6e07FwHtdPA-normal.png"", ""link"": ""http://bit.ly/CorelleDinnerware"", ""name"": ""Corelle® Dinnerware"", ""caption"": ""http://bit.ly/CorelleDinnerware"" }
 
 ",,
-7100,2369,poll,0.25,"Do you currently have chipped dishes in your cabinet? 
+7100,2369,poll,0.25,"Do you currently have chipped dishes in your cabinet?
 (Don’t worry, we won’t tell anyone!)",,
-7101,2369,fact,0.25,"Rule of thumb: White dinnerware is the foundation for a great table setting.  
+7101,2369,fact,0.25,"Rule of thumb: White dinnerware is the foundation for a great table setting. 
 
 Add in different patterns for that personal style touch!",,
 7112,2369,twitter,0.5,Save on Corelle at your favorite retail stores using @IbottaApp! Vist our website: http://bit.ly/CorelleServeware,http://product-images.ibotta.com/offer/B83CksGLgtdtVQBfglANfQ-normal.png,http://product-images.ibotta.com/offer/B83CksGLgtdtVQBfglANfQ-normal.png
@@ -262,13 +262,13 @@ Introducing Chocolate Toast Crunch™, with real cocoa in every delicious bite!"
 
 Now you can meet them! Find out who slurps milk, who's attracted to the color blue and endless other fun facts about your favorite cereal pals!
 
-Just visit:  
+Just visit:
 www.crazysquares.com/meet.html",,
 7280,2423,poll_multi,0.25,How will you enjoy Fiber One® Protein?,,
 7281,2423,quiz,0.25,Fiber One® Protein Maple Brown Sugar has:,,
 7288,2423,how_to,0.5,"Try the Fiber One® Cereal Challenge!
 
-Eat Fiber One® Protein in Maple Brown Sugar or another Fiber One® variety for a week and see if you feel the difference! 
+Eat Fiber One® Protein in Maple Brown Sugar or another Fiber One® variety for a week and see if you feel the difference!
 
 Check out The Challenge:
 http://www.fiberone.com/cereal-challenge",https://s3.amazonaws.com/ibotta-static-assets/brands/general+mills/FiberOneforFACT.png,https://s3.amazonaws.com/ibotta-static-assets/brands/general+mills/FiberOneforFACT.png
@@ -320,16 +320,16 @@ Assembly
 7506,2508,fact,0.75,Did you know that replacing one sugary beverage with Brita water could save you 150 calories or more?,,
 7593,2508,poll,1,Were you considering purchasing a Brita® pitcher prior to seeing this Ibotta offer?,,
 7503,2509,social,0.75,"{ ""message"": """", ""description"": ""NEW Brita® Hard-Sided Bottles: Built to keep up with your active lifestyle! It’s great for the gym, the office, or anywhere else you need great-tasting water on the go. Sip away and visit Brita®'s Facebook page: FB.com/BritaUSA"", ""picture"": ""http://product-images.ibotta.com/offer/qlnTwBrc3EK2E565idbq1g-normal.png"", ""link"": ""http://facebook.com/BritaUSA"", ""name"": ""Brita®"", ""caption"": ""facebook.com/BritaUSA"" }",http://product-images.ibotta.com/offer/qlnTwBrc3EK2E565idbq1g-normal.png,http://product-images.ibotta.com/offer/qlnTwBrc3EK2E565idbq1g-normal.png
-7504,2509,how_to,0.5,"Hard: Running on a Treadmill for 1 hour. 
+7504,2509,how_to,0.5,"Hard: Running on a Treadmill for 1 hour.
 Easy: Replacing 1 sugary drink with a glass of Brita® water.
 
-This New Year, keep your 2014 health resolutions in line with Brita®'s help. Drinking more water can help you lose weight, and you can make it taste better with Brita®.
+This New Year, keep your 2016 health resolutions in line with Brita®'s help. Drinking more water can help you lose weight, and you can make it taste better with Brita®.
 
 For more healthier options for a healthier you, visit: www.brita.com",https://s3.amazonaws.com/ibotta-static-assets/brands/Brita/equation-health.png,https://s3.amazonaws.com/ibotta-static-assets/brands/Brita/equation-health.png
 7505,2509,quiz,0.25,True or False: 1 Brita® Bottle filter in a standard 16.9 oz. bottle can replace as many as 300 water bottles.,,
 7507,2510,fact,0.25,"Kickstart your day with the perfect balance between convenience, taste and nutrition.
 
-New Quaker® Breakfast Shakes have 8g of whole grain and 10g of protein. 
+New Quaker® Breakfast Shakes have 8g of whole grain and 10g of protein.
 
 Try them in delicious chocolate, vanilla and strawberry flavors!",,
 7509,2510,poll_multi,0.5,"Which flavor of Quaker® Breakfast Shake are you most excited to try?
@@ -358,7 +358,7 @@ When it comes to creating Fresh Mex Bowls, the fresher, the better. That's why C
 7795,2608,quiz,0.25,Revolution Foods Meal Kits:,,
 7796,2608,social,0.5,"{ ""message"": """", ""description"": ""Join the revolution to change the way America eats! Founded by two moms, Revolution Foods provides access to healthy meals in schools and in stores. Like them if you support their mission and want to be the first to know about new products and promotions! http://on.fb.me/17ncS3P"", ""picture"": ""http://product-images.ibotta.com/offer/YWPn2NeSb97WqwUK9EIcMw-normal.png"", ""link"": ""http://facebook.com/RevolutionFoods"", ""name"": ""Revolution Foods"", ""caption"": ""facebook.com/RevolutionFoods"" }",http://product-images.ibotta.com/offer/YWPn2NeSb97WqwUK9EIcMw-normal.png,http://product-images.ibotta.com/offer/YWPn2NeSb97WqwUK9EIcMw-normal.png
 7797,2608,poll,0.25,What is the top reason you’re interested in trying Revolution Foods Meal Kits?,,
-7901,2644,fact,0.25,"Did you know frozen vegetables are as nutritious as fresh?  
+7901,2644,fact,0.25,"Did you know frozen vegetables are as nutritious as fresh?
 
 Make sure you always have vegetables on hand by stocking up on your favorite Green Giant frozen varieties at your neighborhood H-E-B!",,
 7902,2644,social,0.5,"{ ""message"": """", ""description"": ""I'm taking 'One Giant Pledge' to eat one more vegetable a day! You can too, at: Facebook.com/GreenGiant"", ""picture"": ""http://static.ibotta.com/brands/general+mills/green+giant/GreenGiantPledge.png"", ""link"": ""http://facebook.com/GreenGiant"", ""name"": ""Green Giant® Seasoned Steamers at H-E-B!"", ""caption"": ""facebook.com/GreenGiant"" }
@@ -368,9 +368,9 @@ Make sure you always have vegetables on hand by stocking up on your favorite Gre
 
 Jalapeno Popper and Buffalo Chicken!",https://s3.amazonaws.com/ibotta-static-assets/brands/general+mills/totino%27s/Totinos__bothflavors.png,
 7916,2649,quiz,0.5,How long does it take to prepare Totinos® Pizza Rolls?,,
-7913,2651,fact,0.25,"Did you know that all EVOL products use only the finest ingredients and are always free of preservatives, hormones and artificials? 
+7913,2651,fact,0.25,"Did you know that all EVOL products use only the finest ingredients and are always free of preservatives, hormones and artificials?
 
-Well, now you do. 
+Well, now you do.
 
 Now go get some deliciousness!!",,
 7914,2651,poll,0.25,How often do you purchase an EVOL Food’s product?,,
@@ -424,11 +424,11 @@ Source: http://oldelpaso.com/recipes",http://static.ibotta.com/brands/general+mi
 8454,2825,quiz,0.5,Which two tasty sides are served with your Make It A Combo meal?,,
 8455,2825,fact,0.5,"This holiday season, why settle for one entrée when you can have the taste of two? Choose any two of your favorites below, all served with loaded mashed potatoes & steamed broccoli:
 
-• Half Rack of Baby Back Ribs 
-• Monterey Chicken® 
+• Half Rack of Baby Back Ribs
+• Monterey Chicken®
 • Margarita Grilled Chicken (Lighter Choice item)
 • Salmon with Garlic & Herbs (Also available as Lighter Choice)
-• Spicy Garlic & Lime Grilled Shrimp 
+• Spicy Garlic & Lime Grilled Shrimp
 • 6 oz. Classic Sirloin (Also available as Lighter Choice)
 ",,
 8511,2845,video,0.25,,http://static-77.ibotta.com/videos/8511/dd460abc-cfa9-43c6-99c1-ed5e5a0363cb.mp4,http://product-images.ibotta.com/offer/171uwFJYf9D9PcrKfphQ_A-normal.png
@@ -444,7 +444,7 @@ make sure your submitted ticket stub includes:
 -Price of ticket
 -Auditorium number
 ",http://static.ibotta.com/brands/Jessie+SF/Movie-Ticket_Info.png,http://static.ibotta.com/brands/Jessie+SF/Movie-Ticket_Info.png
-8627,2882,do_gooder,1,"Orgain™ is dedicated to doing more for the world. 
+8627,2882,do_gooder,1,"Orgain™ is dedicated to doing more for the world.
 
 A portion of the net proceeds of Orgain™ will be given to those dealing with cancer who cannot afford adequate medical and nutritional care. Learn more here: drinkorgain.com",http://www.drinkorgain.com/,
 8628,2882,quiz,1,Orgain™ Organic Nutritional Shakes are:,,
@@ -477,16 +477,16 @@ Step 3: Frost treats with remaining peanut butter chocolate spread. Remove treat
 8656,2893,getting_to_know_you,0.25,How many children live in your household?,,
 8657,2893,how_to,0.25,"Earn Ibotta's $.50 Milk Bonus!
 
-Redeem our Any Brand milk offer ($.50) along with ANY 2 additional offers to earn a $.50 Bonus! You'll also earn cash from the 2nd and 3rd offers. 
+Redeem our Any Brand milk offer ($.50) along with ANY 2 additional offers to earn a $.50 Bonus! You'll also earn cash from the 2nd and 3rd offers.
 
 Hurry as our milk offer & bonus both expire on Sunday night!",http://static.ibotta.com/brands/Jessie+SF/Generic-Milk-Offer_plus_fifty.png,http://static.ibotta.com/brands/Jessie+SF/Generic-Milk-Offer_plus_fifty.png
 8686,2904,fact,0.25,Did you know that Glade® Wax Melts have high quality fragrances that last up to 96 hours per pack?,,
 8687,2904,video,0.25,,http://static-77.ibotta.com/brands/sc%20johnson/JSGA3093_1280x720.mp4,http://static.ibotta.com/brands/Glade/Gla_WaxMelts_HB_V0R1_F-2.png
 8688,2904,social,0.5,"{ ""message"": """", ""description"": ""Glade® Wax Melts are availabe in 14 fragrances to enhance any moment with lasting fragrance. Like Glade® on Facebook for fragrance inspiration.  INSPIRED BY THE BEST FEELINGS IN THE WORLD.™"", ""picture"": ""http://static.ibotta.com/brands/Glade/Glade_WM_RF_CL_V0R1_F.png"", ""link"": ""http://facebook.com/Glade"", ""name"": ""Glade® Wax Melts"", ""caption"": ""facebook.com/Glade"" }",http://static.ibotta.com/brands/Glade/Glade_WM_RF_CL_V0R1_F.png,http://static.ibotta.com/brands/Glade/Glade_WM_RF_CL_V0R1_F.png
-8714,2912,fact,0.25,"Gatorade Recover® Whey Protein Bars have protein and carbs to fuel muscle recovery. They help bring muscles back to life. 
+8714,2912,fact,0.25,"Gatorade Recover® Whey Protein Bars have protein and carbs to fuel muscle recovery. They help bring muscles back to life.
 Each bar contains 20 grams of high-quality milk-based proteins, including whey, to provide essential amino acids.
 
-Gatorade Recover® Whey Protein Bars deliver the great taste you would expect from Gatorade in 3 flavors: 
+Gatorade Recover® Whey Protein Bars deliver the great taste you would expect from Gatorade in 3 flavors:
 • Chocolate Chip
 • Chocolate Caramel
 • Cookies & Crème
