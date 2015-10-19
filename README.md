@@ -1,11 +1,26 @@
-Ibotta Dev Project 20140521
+Ibotta Dev Project (Web Engineer)
 =========
 
 The Project
 ---
-Your goal is to send the offer/task data (more details below) from the database to the browser as JSON and then display the offers in the browser as a single page Ember application.
+Your goal is to send the offer/task data (more details below) from the
+database to the browser as JSON and then display the offers in the
+browser as a single page Ember application.
 
-Notes:
+### Requirements
+ * [ ] Pull json data from the server
+ * [ ] Display offers in a sorted gallery
+ * [ ] View individual offer
+ * [ ] Well tested
+ * [ ] Provide code in a private git repo (hosted or in an archive)
+
+### Nice to have
+ * [ ] Filter offers in gallery by Retailer
+ * [ ] Display Retailer info on offers
+ * [ ] Track offer views
+
+### Notes:
+
  * Image URLs for each offer are in the the database.
  * Task images can be be found in a sprite located in the app/assets/images directory.
  * The tasks do not need to be functional but should be shown along with each offer. You can ignore the content field for each task.
@@ -21,7 +36,7 @@ This application requires:
 
 Learn more about [Installing Rails](http://railsapps.github.io/installing-rails.html).
 
-Here's a quick install procedure for OSX Mavericks:
+Here's a quick install procedure for OSX El Capitan:
 
 1. Ensure XCode and Command Line Tools are installed
 2. Install [brew](http://brew.sh/)
@@ -59,9 +74,13 @@ Database Setup
 
 This application uses SQLite with ActiveRecord.
 
-The tables given to you are stored in the .seed.csv files, and are loaded to your local sqlite database by the command ```rake db:seed```
+The tables given to you are stored in the .seed.csv files, and are
+loaded to your local sqlite database by the command ```rake db:seed```
 
-The database consists of sample data for 3 tables - offers, tasks, and retailers. These are sample offers from Ibotta along with the associated tasks (Facts, Videos, Polls, etc.). The associated Rails models are included in the RoR project.
+The database consists of sample data for 4 tables - offers, tasks,
+retailers, and retailer_offers. These are sample offers from Ibotta
+along with the associated tasks (Facts, Videos, Polls, etc.). The
+associated Rails models are included in the RoR project.
 
 Gems/Frameworks Already Included
 ---
