@@ -13,11 +13,13 @@ browser as a single page Ember application.
  * [ ] View individual offer
  * [ ] Well tested
  * [ ] Provide code in a private git repo (hosted or in an archive)
-
-### Nice to have
  * [ ] Filter offers in gallery by Retailer
  * [ ] Display Retailer info on offers
+ * [ ] Search for offers
+
+### Nice to have
  * [ ] Track offer views
+ * [ ] Implement task interactions for 1 or more task types
 
 ### Notes:
 
