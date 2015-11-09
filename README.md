@@ -5,9 +5,11 @@ The Project
 ---
 Your goal is to send the offer/task data (more details below) from the
 database to the browser as JSON and then display the offers in the
-browser as a single page Ember application.
+browser as a single page application.
 
 ### Requirements
+ * [ ] Build app using a javascript frontend framework (Ember,
+   Angular, React, etc.)
  * [ ] Pull json data from the server
  * [ ] Display offers in a sorted gallery
  * [ ] View individual offer
