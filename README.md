@@ -34,7 +34,7 @@ Ruby on Rails
 
 This application requires:
 
-* Ruby (2.3.x)
+* Ruby (2.5.x)
 * Rails (5.2)
 
 Learn more about [Installing Rails](http://railsapps.github.io/installing-rails.html).
@@ -53,7 +53,7 @@ brew install git node pcre rbenv ruby-build sqlite3
 ```
 #!sh
 cd [project_directory]
-rbenv install 2.3.1
+rbenv install 2.5.1
 rbenv rehash
 gem install bundler
 ```
@@ -67,7 +67,7 @@ rake db:seed
 ```
 
 Common rails commands:
-* ```bundle exec guard``` automatically runs the rails server as well as runs tests when files change
+* ```bundle exec guard``` automatically runs the rails server as well as runs tests when files change (run from top level of repo)
 * ```rake db:seed``` will always reload the given test data (will take a while)
 * ```rails console``` an interactive ruby console including the rails environment
 * ```rails db``` an interactive database console
