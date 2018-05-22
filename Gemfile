@@ -8,13 +8,14 @@ gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails'
 gem 'jquery-rails'
 gem 'turbolinks'
-gem 'jbuilder', '~> 2.0'
+gem 'jbuilder', '~> 2.5'
 gem 'sdoc',          group: :doc
 gem 'spring',        group: :development
 gem 'bootstrap-sass'
 gem 'figaro', :github=>"laserlemon/figaro"
 gem 'haml-rails'
 gem 'simple_form'
+gem 'bootsnap', '>= 1.1.0', require: false
 
 group :development do
   gem 'better_errors'
