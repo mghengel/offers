@@ -12,12 +12,12 @@ browser as a single page application.
  * [ ] Pull JSON data from the server
  * [ ] Display offers in a gallery
  * [ ] View an individual offer
+ * [ ] Well tested
  * [ ] Provide code in a private git repo (hosted or in an archive)
 
 ### Nice to have
  * [ ] Track offer views
  * [ ] Implement task interactions for 1 or more task types
- * [ ] Well tested
  * [ ] Search for offers
  * [ ] Filter offers in gallery by Retailer
  * [ ] Display Retailer info on offers
@@ -57,7 +57,7 @@ rbenv install 2.3.1
 rbenv rehash
 gem install bundler
 ```
-6. initialize the application
+6. Initialize the application
 ```
 #!sh
 bundle install
@@ -95,6 +95,9 @@ The database consists of sample data for 4 tables - offers, tasks,
 retailers, and retailer_offers. These are sample offers from Ibotta
 along with the associated tasks (Facts, Videos, Polls, etc.). The
 associated Rails models are included in the RoR project.
+
+To gain a better understanding these models, feel free to download
+the Ibotta app and explore.
 
 Gems/Frameworks Already Included
 ---
