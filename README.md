@@ -8,8 +8,8 @@ database to the browser as JSON and then display the offers in the
 browser as a single page application.
 
 ### Requirements
- * [ ] Build a single page application using a javascript frontend framework or library
- * [ ] Pull json data from the server
+ * [ ] Build a single page application using a JavaScript frontend framework or library
+ * [ ] Pull JSON data from the server
  * [ ] Display offers in a gallery
  * [ ] View an individual offer
  * [ ] Provide code in a private git repo (hosted or in an archive)
@@ -24,8 +24,8 @@ browser as a single page application.
 
 ### Notes:
 
- * Image URLs for each offer are in the the database.
- * Task images can be be found in a sprite located in the app/assets/images directory.
+ * Image URLs for each offer are in the database.
+ * Task images can be found in a sprite located in the app/assets/images directory.
  * The tasks do not need to be functional but should be shown along with each offer. You can ignore the content field for each task.
 
 
@@ -35,7 +35,7 @@ Ruby on Rails
 This application requires:
 
 * Ruby (2.3.x)
-* Rails (5)
+* Rails (5.2)
 
 Learn more about [Installing Rails](http://railsapps.github.io/installing-rails.html).
 
@@ -89,7 +89,7 @@ Database Setup
 This application uses SQLite with ActiveRecord.
 
 The tables given to you are stored in the .seed.csv files, and are
-loaded to your local sqlite database by the command ```rake db:seed```
+loaded to your local SQLite database by the command ```rake db:seed```
 
 The database consists of sample data for 4 tables - offers, tasks,
 retailers, and retailer_offers. These are sample offers from Ibotta
