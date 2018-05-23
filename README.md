@@ -88,7 +88,7 @@ This application uses SQLite with ActiveRecord.
 The tables given to you are stored in the .seed.csv files, and are
 loaded to your local SQLite database by the command ```rake db:seed```
 
-The database consists of sample data for 4 tables - offers,
+The database consists of sample data for 3 tables - offers,
 retailers, and retailer_offers. These are sample offers from Ibotta.
 The associated Rails models are included in the RoR project.
 
