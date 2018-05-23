@@ -3,7 +3,7 @@ Ibotta Dev Project (Web Engineer)
 
 The Project
 ---
-Your goal is to send the offer/task data (more details below) from the
+Your goal is to send the offer data (more details below) from the
 database to the browser as JSON and then display the offers in the
 browser as a single page application.
 
@@ -17,7 +17,6 @@ browser as a single page application.
 
 ### Nice to have
  * [ ] Track offer views
- * [ ] Implement task interactions for 1 or more task types
  * [ ] Search for offers
  * [ ] Filter offers in gallery by Retailer
  * [ ] Display Retailer info on offers
@@ -25,8 +24,6 @@ browser as a single page application.
 ### Notes:
 
  * Image URLs for each offer are in the database.
- * Task images can be found in a sprite located in the app/assets/images directory.
- * The tasks do not need to be functional but should be shown along with each offer. You can ignore the content field for each task.
 
 
 Ruby on Rails
@@ -91,10 +88,9 @@ This application uses SQLite with ActiveRecord.
 The tables given to you are stored in the .seed.csv files, and are
 loaded to your local SQLite database by the command ```rake db:seed```
 
-The database consists of sample data for 4 tables - offers, tasks,
-retailers, and retailer_offers. These are sample offers from Ibotta
-along with the associated tasks (Facts, Videos, Polls, etc.). The
-associated Rails models are included in the RoR project.
+The database consists of sample data for 4 tables - offers,
+retailers, and retailer_offers. These are sample offers from Ibotta.
+The associated Rails models are included in the RoR project.
 
 To gain a better understanding these models, feel free to download
 the Ibotta app and explore.

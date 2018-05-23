@@ -35,16 +35,4 @@ ActiveRecord::Schema.define(version: 2015_10_19_194152) do
     t.datetime "updated_at"
   end
 
-  create_table "tasks", force: :cascade do |t|
-    t.integer "offer_id"
-    t.string "task_type"
-    t.float "amount"
-    t.text "content"
-    t.string "url"
-    t.string "thumbnail_url"
-    t.datetime "created_at"
-    t.datetime "updated_at"
-    t.index ["offer_id"], name: "index_tasks_on_offer_id"
-  end
-
 end
