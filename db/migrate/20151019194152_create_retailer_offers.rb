@@ -1,4 +1,4 @@
-class CreateRetailerOffers < ActiveRecord::Migration
+class CreateRetailerOffers < ActiveRecord::Migration[5.2]
   def change
     create_table :retailer_offers do |t|
       t.references :retailer
