@@ -50,7 +50,7 @@ brew install git node pcre rbenv ruby-build sqlite3
 ```
 #!sh
 cd [project_directory]
-rbenv install 2.5.1
+rbenv install 2.5.3
 rbenv rehash
 gem install bundler
 ```

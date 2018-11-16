@@ -18,21 +18,23 @@ ActiveRecord::Schema.define(version: 2015_10_19_194152) do
     t.text "terms"
     t.string "image_url"
     t.datetime "expiration"
-    t.datetime "created_at"
-    t.datetime "updated_at"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
   end
 
   create_table "retailer_offers", force: :cascade do |t|
     t.integer "retailer_id"
     t.integer "offer_id"
-    t.datetime "created_at"
-    t.datetime "updated_at"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["offer_id"], name: "index_retailer_offers_on_offer_id"
+    t.index ["retailer_id"], name: "index_retailer_offers_on_retailer_id"
   end
 
   create_table "retailers", force: :cascade do |t|
     t.string "name"
-    t.datetime "created_at"
-    t.datetime "updated_at"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
   end
 
 end
