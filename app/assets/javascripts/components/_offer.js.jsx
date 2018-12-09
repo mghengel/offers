@@ -3,20 +3,18 @@ class Offer extends React.Component {
   constructor(props) {
     super(props);
   }
-  handleClose() {
+  handleClose = () => {
     this.props.handleClose();
-  }
-  handleClick(offerId) {
-    this.props.handleClick(offerId)
-  }
+  };
+  handleClick = () => {
+    this.props.handleClick(this.props.offer.id);
+  };
   render(){
-    console.log(this.props.offer)
     const { offer, handleClose } = this.props;
-    console.log(handleClose)
     return(
-      <div className="offer" onClick={() => this.handleClick(offer.id)}>
+      <div className="offer" onClick={this.handleClick}>
         {handleClose &&
-          <a onClick={() => this.handleClose()}>Close</a>
+          <a onClick={this.handleClose}>Close</a>
         }
         <div className="title">{offer.name}</div>
         <div className="img-container">
@@ -27,3 +25,11 @@ class Offer extends React.Component {
      )
    }
 }
+
+Offer.proptypes = {
+  handleClick: PropTypes.func
+};
+
+Offer.defaultProps = {
+  handleClick: () => {},
+};
