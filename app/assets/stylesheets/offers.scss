@@ -1,3 +1,48 @@
 // Place all the styles related to the Offers controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+* {
+  margin-bottom: 10px;
+  text-align: center;
+}
+.offers {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.offer {
+  background-color: white;
+  width: 200px;
+  color: #2B2C2E;
+  padding: 20px;
+  border: 1px solid #C8C8C8;
+  border-radius: 4px;
+  margin: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 5px 6px;
+  .title {
+    font-size: 16px;
+  }
+  img {
+    height: 100%;
+  }
+  .img-container {
+    height: 100px;
+  }
+}
+
+@media (max-width: 575px) {
+  main {
+    margin: 0;
+    padding: 0;
+  }
+  .offer {
+    margin: 10px 0;
+    width: 100%;
+    border: none;
+    border-radius: 0;
+  } 
+}
