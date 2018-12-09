@@ -16,6 +16,7 @@ gem 'figaro', :github=>"laserlemon/figaro"
 gem 'haml-rails'
 gem 'simple_form'
 gem 'bootsnap', '>= 1.1.0', require: false
+gem 'react-rails'
 
 group :development do
   gem 'better_errors'
