@@ -4,8 +4,10 @@ class DataHandler extends React.Component {
     this.state = {
       retailers: [],
       offers: [],
-      currentOffer: null,
-      filterOffers: []
+      currentOffer: '',
+      filterOffers: [],
+      currentRetailer: '',
+      searchValue: ''
     }
   }
   componentDidMount(){
@@ -19,7 +21,7 @@ class DataHandler extends React.Component {
         if (offerId) {
           this.setState({ currentOffer: data });
         } else {
-          this.setState({ 
+          this.setState({
             offers: data,
             filterOffers: data
           }) 
@@ -30,32 +32,59 @@ class DataHandler extends React.Component {
     fetch(`/api/v1/retailers`)
       .then((response) => {return response.json()})
       .then((data) => {
-        this.setState({ retailers: data }) 
+        const retailers = data.sort( (a, b) => {
+          return a.name.toLowerCase() > b.name.toLowerCase() ? 1 : -1;
+        });
+        this.setState({ retailers }) 
+      });
+  };
+  filterByRetailer = retailer_id => {
+    this.setState({ 
+      currentRetailer: retailer_id,
+      searchValue: ''
+    });
+    if (retailer_id) {
+      fetch(`/api/v1/retailer_offers${retailer_id ? '?retailer_id=' + retailer_id : ''}`)
+        .then((response) => {return response.json()})
+        .then((data) => {
+          const offerIds = data.map(x => x.offer_id);
+          let retailerOffers = this.state.offers.filter(offer => {
+            return offerIds.includes(offer.id)
+          })
+          this.setState({ filterOffers: retailerOffers });
+        });
+      } else {
+        // Clears the filter
+        this.setState({ filterOffers: this.state.offers });
+      }
+    
+  };
+  handleSearch = searchValue => {
+    this.setState({ 
+      searchValue,
+      currentRetailer: '' 
+    });
+    fetch(`/api/v1/offers?q=${searchValue}`)
+      .then((response) => {return response.json()})
+      .then((data) => {
+        this.setState({ filterOffers: data }) 
       });
   };
   handleClose = () => {
-    this.setState({ currentOffer: null });
-  };
-  filterByRetailer = retailer_id => {
-    fetch(`/api/v1/retailer_offers/${retailer_id}`)
-      .then((response) => {return response.json()})
-      .then((data) => {
-        const offerIds = data.map(x => x.offer_id);
-        let retailerOffers = this.state.offers.filter(offer => {
-          return offerIds.includes(offer.id)
-        })
-        this.setState({ filterOffers: retailerOffers });
-      });
+    this.setState({ currentOffer: '' });
   };
   render(){
-    const { retailers, filterOffers, currentOffer } = this.state;
+    const { retailers, filterOffers, currentOffer, currentRetailer, searchValue } = this.state;
+    if (!retailers.length && !filterOffers.length) return <div>...Loading</div>;
     return(
-      <div>
+      <div className="offerContainer">
         {currentOffer ?
-          <Offer handleClose={this.handleClose} offer={currentOffer} />
+          <Offer handleClose={this.handleClose} offer={currentOffer} singleOffer={true} />
           :
           <div>
-            <Filter retailers={retailers} filterByRetailer={this.filterByRetailer} />
+            <Filter retailers={retailers} currentRetailer={currentRetailer} filterByRetailer={this.filterByRetailer} />
+            <div>Or</div>
+            <Search handleSearch={this.handleSearch} value={searchValue} />
             <Offers offers={filterOffers} handleClick={this.getOffers}/>
           </div>
         }
@@ -63,25 +92,3 @@ class DataHandler extends React.Component {
      )
    }
 }
-
-// movies = [{
-//     'title': 'a',
-//     'genres': ['Romance', 'Comedy']
-//   },
-//   {
-//     'title': 'b',
-//     'genres': ['Drama', 'Comedy']
-//   },
-//   {
-//     'title': 'c',
-//     'genres': ['Action', 'Adventure']
-//   }
-// ]
-
-// filters = ['Romance', 'Drama']
-
-// //[{'title': 'a', 'genres': ['Romance', 'Comedy']}, 
-// // {'title': 'b', 'genres': ['Drama', 'Comedy']}]
-
-// console.log(movies.filter(x => x.genres.some(g => filters.includes(g))))
-

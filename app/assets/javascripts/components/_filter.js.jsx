@@ -2,7 +2,12 @@ class Filter extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      value: ''
+      value: props.currentRetailer || ''
+    }
+  }
+  componentWillReceiveProps(nextProps) {
+    if (nextProps.currentRetailer !== this.state.valaue) {
+      this.setState({ value: nextProps.currentRetailer });
     }
   }
   handleSelect = e => {
@@ -15,8 +20,9 @@ class Filter extends React.Component {
     const { value } = this.state;
     return(
       <div className="filter">
-        <select value={value} onChange={this.handleSelect}>
-          <option id="">Retailers</option>
+      <label htmlFor="filterOption">Filter By Retailer</label>
+        <select id="filterOption" value={value} onChange={this.handleSelect}>
+          <option value="">All Retailers</option>
           {retailers.map(retailer => {
             return (
               <option key={retailer.id} value={retailer.id}>{retailer.name}</option>
