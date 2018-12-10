@@ -1,29 +1,41 @@
 class Offer extends React.Component {
-  
   constructor(props) {
     super(props);
   }
-  handleClose() {
+  handleClose = () => {
     this.props.handleClose();
-  }
-  handleClick(offerId) {
-    this.props.handleClick(offerId)
-  }
+  };
+  handleClick = () => {
+    this.props.handleClick(this.props.offer.id);
+  };
   render(){
-    console.log(this.props.offer)
-    const { offer, handleClose } = this.props;
-    console.log(handleClose)
+    const { offer, handleClose, singleOffer } = this.props;
+    const expirationDate = new Date(offer.expiration).toLocaleString();
     return(
-      <div className="offer" onClick={() => this.handleClick(offer.id)}>
-        {handleClose &&
-          <a onClick={() => this.handleClose()}>Close</a>
+      <div className={`offer ${singleOffer ? 'single' : ''}`} onClick={this.handleClick}>
+        {singleOffer &&
+          <a className="back" onClick={this.handleClose}>Back</a>
         }
         <div className="title">{offer.name}</div>
-        <div className="img-container">
+        <div className="imgContainer">
           <img src={offer.image_url} alt=""/>
         </div>
         <div>{offer.description}</div>
+        { singleOffer &&
+          <div>
+            <div>{offer.terms}</div>
+            <div>Expires: {expirationDate}</div>
+          </div>
+        }
       </div>
      )
    }
 }
+
+Offer.proptypes = {
+  handleClick: PropTypes.func
+};
+
+Offer.defaultProps = {
+  handleClick: () => {},
+};

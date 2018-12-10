@@ -1,6 +1,10 @@
 class Api::V1::OffersController < ApplicationController
   def index
-    @offers = Offer.all
+    if params[:q]
+      @offers = Offer.where("description || name like ?", "%#{params[:q]}%")
+    else 
+      @offers = Offer.all
+    end
     render json: @offers
   end
   def show
