@@ -1,3 +1,52 @@
+install brew 
+```
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+
+install brew packages
+```
+brew install git node pcre rbenv ruby-build sqlite3
+
+vi ~/.bash_profile
+eval "$(rbenv init -)"
+```
+
+Clone repo
+```
+git clone https://github.com/mghengel/offers.git
+```
+
+cd project_directory
+```
+rbenv install 2.5.3
+rbenv global 2.5.3 <- NEW
+rbenv rehash
+gem install bundler
+gem install rails <- NEW
+bundle install
+rails g react:install <- NEW
+rake db:migrate
+rake db:test:prepare
+rake db:seed
+bundle exec guard
+```
+
+UI:
+```
+http://localhost:3000
+The react app (offers-react) points to this api. If this url is different you will have to update the package.json proxy in the offers-react app with the new url. 
+```
+
+API: 
+```
+/api/v1/offers
+/api/v1/retailer_offers
+/api/v1/retailers
+```
+	 
+
+
+
 Ibotta Dev Project (Web Engineer)
 =========
 
